@@ -2,7 +2,7 @@
 
 ## 🤗 Befroe
 
-This repository is a **personal learning collection**. Resources mentioned here are for reference only. For any questions or concerns, please email me.
+This repository is a **personal learning collection**. Resources mentioned here are for reference only. For any questions, please email me or report an issue.
 
 _I do not own the rights to listed books/resources._
 
