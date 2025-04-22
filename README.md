@@ -14,6 +14,8 @@ _I do not own the rights to listed books/resources._
 
 - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/) - By Nvidia
 
+- [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide) - By Nvidia
+
 ## AI
 
 ### Agent
