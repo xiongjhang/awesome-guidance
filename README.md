@@ -1,14 +1,14 @@
 # awesome-guidance
 
-## Note
+## 🤗 Befroe
 
 This repository is a **personal learning collection**. Resources mentioned here are for reference only. For any questions or concerns, please email me.
 
 _I do not own the rights to listed books/resources._
 
-## Computer Science
+## :computer: Computer Science
 
-## ML System
+## :house_with_garden: ML System
 
 ### CUDA
 
@@ -18,7 +18,7 @@ _I do not own the rights to listed books/resources._
 
 - [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide) - By Nvidia
 
-## AI
+## :yum: AI
 
 ### Agent
 
@@ -28,7 +28,7 @@ _I do not own the rights to listed books/resources._
 
 - [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - By OpenAI
 
-## Acknowledgments
+## :white_flower: Acknowledgments
 
 A heartfelt thanks to all authors, translators, and contributors in the open-source community. Your generous sharing and hard work have made these valuable resources accessible to everyone.
 
@@ -39,3 +39,13 @@ Special gratitude to:
 - **Open-Source Maintainers:** Your code and documentation have inspired countless learners;
 
 - **Recommenders:** Everyone who suggested improvements or pointed out missing gems.
+
+## :round_pushpin: Some Useful Links
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
